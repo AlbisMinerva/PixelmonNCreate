@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "OOO"
+    ],
+    "key": {
+        "#": {
+            "item": "create:zinc_ingot"
+        },
+        "O": {
+            "item": "create:zinc_nugget"
+        }
+    },
+    "result": {
+        "item": "pixelmon:iron_base",
+        "count": 2
+    }
+}

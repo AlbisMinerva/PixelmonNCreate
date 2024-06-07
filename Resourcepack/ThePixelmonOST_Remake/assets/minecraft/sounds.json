@@ -1,0 +1,175 @@
+{
+	"music.a_simple_moment_by_the_sea": {
+		"category": "music",
+		"sounds": [
+			{
+				"name": "music/pixelmon/a_simple_moment_by_the_sea",
+				"stream": true
+			}
+		]
+	},
+	"music.awnrider_2022": {
+		"category": "music",
+		"sounds": [
+			{
+				"name": "music/pixelmon/dawnrider_2022",
+				"stream": true
+			}
+		]
+	},
+	"music.across_the_desert": {
+		"category": "music",
+		"sounds": [
+			{
+				"name": "music/pixelmon/dacross_the_desert",
+				"stream": true
+			}
+		]
+	},
+	"music.clear_skies": {
+		"category": "music",
+		"sounds": [
+			{
+				"name": "music/pixelmon/clear_skies",
+				"stream": true
+			}
+		]
+	},
+	"music.dawn": {
+		"category": "music",
+		"sounds": [
+			{
+				"name": "music/pixelmon/dawn",
+				"stream": true
+			}
+		]
+	},
+	"music.distant_shores": {
+		"category": "music",
+		"sounds": [
+			{
+				"name": "music/pixelmon/distant_shores",
+				"stream": true
+			}
+		]
+	},
+	"music.dusk": {
+		"category": "music",
+		"sounds": [
+			{
+				"name": "music/pixelmon/dusk",
+				"stream": true
+			}
+		]
+	},
+	"music.from_peak_to_peak": {
+		"category": "music",
+		"sounds": [
+			{
+				"name": "music/pixelmon/from_peak_to_peak",
+				"stream": true
+			}
+		]
+	},
+	"music.journey_to_the_sky": {
+		"category": "music",
+		"sounds": [
+			{
+				"name": "music/pixelmon/journey_to_the_sky",
+				"stream": true
+			}
+		]
+	},
+	"music.midnight": {
+		"category": "music",
+		"sounds": [
+			{
+				"name": "music/pixelmon/midnight",
+				"stream": true
+			}
+		]
+	},
+	"music.moonlight": {
+		"category": "music",
+		"sounds": [
+			{
+				"name": "music/pixelmon/moonlight",
+				"stream": true
+			}
+		]
+	},
+	"music.nightfall": {
+		"category": "music",
+		"sounds": [
+			{
+				"name": "music/pixelmon/nightfall",
+				"stream": true
+			}
+		]
+	},
+	"music.on_the_wings_of_adventure_2022": {
+		"category": "music",
+		"sounds": [
+			{
+				"name": "music/pixelmon/on_the_wings_of_adventure_2022",
+				"stream": true
+			}
+		]
+	},
+	"music.pixelmon_waltz": {
+		"category": "music",
+		"sounds": [
+			{
+				"name": "music/pixelmon/pixelmon_waltz",
+				"stream": true
+			}
+		]
+	},
+	"music.the_enchanted_forest": {
+		"category": "music",
+		"sounds": [
+			{
+				"name": "music/pixelmon/the_enchanted_forest",
+				"stream": true
+			}
+		]
+	},
+	"music.the_passing_seasons_2022": {
+		"category": "music",
+		"sounds": [
+			{
+				"name": "music/pixelmon/the_passing_seasons_2022",
+				"stream": true
+			}
+		]
+	},
+	"music.the_frozen_land": {
+		"category": "music",
+		"sounds": [
+			{
+				"name": "music/pixelmon/the_frozen_land",
+				"stream": true
+			}
+		]
+	},
+	"music.the_great_plains": {
+		"category": "music",
+		"sounds": [
+			{
+				"name": "music/pixelmon/the_great_plains",
+				"stream": true
+			}
+		]
+	},
+	"music.menu": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+			{
+				"name": "music/pixelmon/the_passing_seasons_2022",
+				"volume": 0.7,
+				"stream": true
+			}
+		]
+	}
+}

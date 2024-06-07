@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "QBQ",
+        "WFW",
+        "BCB"
+    ],
+    "key": {
+        "Q": {
+            "item": "create:iron_sheet"
+        },
+        "B": {
+            "item": "minecraft:blaze_rod"
+        },
+        "W": {
+            "item": "minecraft:iron_bars"
+        },
+        "F": {
+            "item": "pixelmon:fire_stone"
+        },
+        "C": {
+            "item": "create:cinder_flour"
+        }
+    },
+    "result": {
+        "item": "create:blaze_burner",
+        "count": 1
+    }
+}

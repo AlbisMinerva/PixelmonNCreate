@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "S S",
+        "XSX",
+        "S S"
+    ],
+    "key": {
+        "X": {
+            "item": "pixelmon:m_exp_candy"
+        },
+        "S": {
+            "item": "pixelmon:s_exp_candy"
+        }
+    },
+    "result": {
+        "item": "pixelmon:l_exp_candy",
+        "count": 1
+    }
+}
